@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "Opening Post"
+title: "opening post"
 date: 2016-10-20
 ---
 
